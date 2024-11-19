@@ -23,6 +23,7 @@ O projeto contém três módulos principais:
    ```bash
    pip install cryptography
 ## Uso
+   ```bash
 python template/template.py
 
 ## Exemplos de uso
